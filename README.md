@@ -27,9 +27,9 @@
 
 [Системный промпт](sys_prompt.txt)
 
-[Информационная база](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+0ead2e83-fc62-4d43-b00c-9e2c0ddd9cfb/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F+%D0%B1%D0%B0%D0%B7%D0%B0%2068398ee1-a084-4422-8aa6-65f72dd8fe6e.md)
+[Информационная база](knowledge_base.md)
 
-[Тестовые кейсы](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+0ead2e83-fc62-4d43-b00c-9e2c0ddd9cfb/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5+%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20f8998290-2c46-4360-8408-eb019e6fe113.md)
+[Тестовые кейсы](test_cases.md)
 
-[Сценарии диалогов](%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+0ead2e83-fc62-4d43-b00c-9e2c0ddd9cfb/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8+%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%203892be23-3b1e-4a0d-ac1a-c598da10cbcd.md)
+[Сценарии диалогов](dialogue_scenarios.md)
 
